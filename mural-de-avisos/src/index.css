@@ -1,0 +1,7 @@
+body { font-family: sans-serif; background: #DEDBDC; color: #0A192F; }
+.container { max-width: 600px; margin: 20px auto; padding: 0 16px; }
+form { display: flex; flex-direction: column; gap: 6px; margin-bottom: 16px; }
+input, textarea { padding: 6px; border: 1px solid #554D4D; }
+button { background: #0A192F; color: #DEDBDC; border: none; padding: 6px 12px; cursor: pointer; }
+.cartao { background: #fff; border: 1px solid #554D4D; padding: 10px; margin-bottom: 10px; }
+.erro { color: red; }
